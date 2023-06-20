@@ -5,6 +5,6 @@ Run first the Index.php
 
 Results:
 
-![alt text](http://url/to/img.png)
+![alt text](form1.png)
 1. Fill the Required data
 
